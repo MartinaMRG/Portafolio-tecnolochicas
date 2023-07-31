@@ -1,0 +1,81 @@
+#img-perfil{
+    width: 190px;
+}
+
+
+#ima{
+    width:20 ;
+}
+
+#img-stack{
+    width: 200px;
+}
+
+.bg-primary{
+    background-color: #fd9843!important;
+}
+
+.nav-link{
+    color: #653208!important;
+}
+
+.text-bg-primary {
+    background-color: #fd9843!important;
+}
+
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #000000;
+}
+#color {
+    background-color:#E6E6FA;
+    color:#05a1ad ;
+  }
+  
+#aliniar{
+    text-align: center;
+
+}
+
+  #Color{
+    background-color:#e6b0aa;
+  }
+
+#proyecto-1{
+    background-image: url('imagenes/proyecto-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#proyecto-2{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-3{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-4{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-5{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-6{
+    background-image: url('unsplash-photo-1.jpg');
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #fd9843;
+    height: 5px;
+}
+
+.carousel-caption{
+    color:black;
+}
+
+#icono{
+    width: 50px;
+}
